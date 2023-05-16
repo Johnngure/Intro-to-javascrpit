@@ -1,1 +1,2 @@
-var myName;
+var myVar = 0;
+var a = 9;
